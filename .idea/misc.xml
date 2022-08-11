@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-bn-rBD/flag.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable-bn-rIN/flag.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-bn/flag.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable-es-rES/flag.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable-es/flag.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable/flag.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable/ic_flag_bd.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable/ic_flag_def.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable/ic_flag_es.xml" value="0.148" />
+        <entry key="app/src/main/res/drawable/ic_flag_india.xml" value="0.1" />
+        <entry key="app/src/main/res/font-bn-rBD/font.xml" value="0.3140625" />
+        <entry key="app/src/main/res/font-bn-rBD/my_font.xml" value="0.25" />
+        <entry key="app/src/main/res/font-es-rES/my_font.xml" value="0.3140625" />
+        <entry key="app/src/main/res/font/my_font.xml" value="0.3140625" />
+        <entry key="app/src/main/res/layout/activity_content.xml" value="0.14791666666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19067028985507245" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalizationSample</string>
+    <string name="sample_text">Nosotros estamos HN</string>
+    <string name="what_do_you_say">cuando hablas?</string>
+</resources>

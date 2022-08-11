@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocalizationSample</string>
+    <string name="sample_text">We are HN</string>
+    <string name="what_do_you_say">What do you say?</string>
+</resources>
